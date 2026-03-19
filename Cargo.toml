@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["vista-backend","vista-broker","vista-core", "vista-driver", "vista-frontend"]
